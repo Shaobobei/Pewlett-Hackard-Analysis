@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-## Helping Bobby and his Manager prepare for the “silver tsunami” as many current employees reach retirement age
+### Helping Bobby and his Manager prepare for the “silver tsunami” as many current employees reach retirement age
 In their future-proofing preparation, Bobby’s manager wants to know the number of retiring employees per title, and wants to know which employees are eligible to participate in a mentorship program. 
 
 # Resources used
