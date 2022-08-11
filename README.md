@@ -9,10 +9,11 @@ In their future-proofing preparation, Bobby’s manager wants to know the number
 •	Employee_Challenge_starter_code
 
 # Results:
-retiring employees per title
+### -Retiring employees per title-
+
 ![image](https://user-images.githubusercontent.com/107021649/184072206-89c6fb3c-95c4-4b48-a390-2194153308c0.png)
 
-employees are eligible to participate in a mentorship program
+### -Eemployees are eligible to participate in a mentorship program-
 ![image](https://user-images.githubusercontent.com/107021649/184072780-f1314e51-d45e-4ab0-abcd-9c656c61833a.png)
 
 # Summary
